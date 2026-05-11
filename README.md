@@ -25,32 +25,21 @@
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
 ## Projects
-
-### [VSCode_website](https://github.com/tonix401/vscode_website)
-
-A framework or template to build your own portfolio or documentation website in the ✨aestetic✨ of the beloved vscode. Check out the demo and documentation [here](https://tonix401.github.io/vscode_website/)
-
-### [Monster Counterr](https://tonix401.github.io/monster-counterr/)
-
-A react (therefore the extra 'r') web app running on [github pages](https://tonix401.github.io/monster-counterr/), that let's D&D game masters manage enemy encounters. Access monster sheets from 5etools directly from this app and connect to up to 25 players to share the game state in real time.
-
+ 
+### [VSCode Website](https://github.com/tonix401/vscode_website)
+A framework and template for building your own portfolio or documentation site with the aesthetic of everyone's favorite code editor. Check out the live demo and docs [here](https://tonix401.github.io/vscode_website/).
+ 
+### [Monster Counter](https://tonix401.github.io/monster-counterr/)
+A React web app (hence the extra *r*) for D&D game masters to manage combat encounters. Pull monster sheets directly from 5etools, and sync game state in real time with up to 25 players.
+ 
 ### [DnDCLI](https://github.com/tonix401/dndcli)
-
-This is a cool little terminal game. You'll live your own story in a fantasy world, featuring AI storytelling and exiting minigames. Every story is unique. We also made very pretty UI just using Ascii art.
-
-You'll need an openai api key though.
-
+A terminal RPG set in a fantasy world with AI-driven storytelling and engaging minigames — every playthrough is unique. Features a polished UI built entirely from ASCII art. Requires an OpenAI API key.
+ 
 ### [Domus](https://github.com/DHBWLoerrach/TIF24B_AnwProjekt_A)
-
-A shared living management app to be self hosted on docker
-currently work in progress.
-
+A self-hosted shared living management app, deployable via Docker.
+ 
 ### [Uniplanner 3000](https://github.com/akoSiThaesler/uniplanner3000)
-
-A web app that allows you to manage teachers, lessons etc...
-
+A web app for managing university resources — teachers, courses, schedules, and more.
+ 
 ### [Quarrelships](https://github.com/tonix401/quarrelships)
-
-A game made with java in processing. A version of battleships
-
-
+A Battleships-style game built in Java using the Processing framework.
