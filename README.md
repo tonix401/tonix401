@@ -26,15 +26,19 @@
 
 ## Projects
 
+### [VSCode_website](https://github.com/tonix401/vscode_website)
+
+A framework or template to build your own portfolio or documentation website in the ✨aestetic✨ of the beloved vscode. Check out the demo and documentation [here](https://tonix401.github.io/vscode_website/)
+
 ### [Monster Counterr](https://tonix401.github.io/monster-counterr/)
 
-A react (therefore the extra 'r') web app running on github pages, that let's D&D game masters manage enemy encounters. Access monster sheets from 5etools directly from this app and connect to up to 25 players to share the game state in real time.
+A react (therefore the extra 'r') web app running on [github pages](https://tonix401.github.io/monster-counterr/), that let's D&D game masters manage enemy encounters. Access monster sheets from 5etools directly from this app and connect to up to 25 players to share the game state in real time.
 
 ### [DnDCLI](https://github.com/tonix401/dndcli)
 
 This is a cool little terminal game. You'll live your own story in a fantasy world, featuring AI storytelling and exiting minigames. Every story is unique. We also made very pretty UI just using Ascii art.
 
-You'll need a openai api key though.
+You'll need an openai api key though.
 
 ### [Domus](https://github.com/DHBWLoerrach/TIF24B_AnwProjekt_A)
 
