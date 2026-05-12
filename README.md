@@ -30,7 +30,7 @@ A framework and template for building your own portfolio or documentation site w
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-[![vscode website demo](assets/vscodewebsite_thumbnail.png)](assets/vscodewebsite_demo.mp4)
+[![vscode website demo](assets/vscode_website/demo.gif)](assets/vscode_website/demo.mp4)
 
 ## [Monster Counter](https://tonix401.github.io/monster-counterr/)
 
@@ -43,7 +43,7 @@ A React web app (hence the extra _r_) for D&D game masters to manage combat enco
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000?logo=githubcopilot&logoColor=fff)
 
-[![monster counterr demo](assets/monstercounterr_thumbnail.png)](assets/monstercounterr_demo.mp4)
+[![monster counterr demo](assets/monster_counterr/demo.gif)](assets/monster_counterr/demo.mp4)
 
 ## [DnDCLI](https://github.com/tonix401/dndcli)
 
@@ -52,7 +52,7 @@ A React web app (hence the extra _r_) for D&D game masters to manage combat enco
 
 A terminal RPG set in a fantasy world with AI-driven storytelling and engaging minigames — every playthrough is unique. Features a polished UI built entirely from ASCII art. Requires an OpenAI API key. Check out the [demo video](assets/dndcli_demo.mp4)
 
-[![DnD CLI demo](assets/dndcli_thumbnail.png)](assets/dndcli_demo.mp4)
+[![DnD CLI demo](assets/dndcli/demo.gif)](assets/dndcli/demo.mp4)
 
 ## [Domus](https://github.com/DHBWLoerrach/TIF24B_AnwProjekt_A)
 
